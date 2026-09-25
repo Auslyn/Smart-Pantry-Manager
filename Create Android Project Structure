@@ -1,0 +1,32 @@
+Smart-Pantry-Manager/
+│
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── example/
+│   │   │   │           └── smartpantrymanager/
+│   │   │   │               └── MainActivity.java
+│   │   │   │
+│   │   │   └── res/
+│   │   │       ├── layout/
+│   │   │       │   └── activity_main.xml
+│   │   │       ├── drawable/
+│   │   │       ├── mipmap/
+│   │   │       └── values/
+│   │   │           ├── colors.xml
+│   │   │           ├── strings.xml
+│   │   │           └── themes.xml
+│   │   │
+│   │   └── AndroidManifest.xml
+│   │
+│   └── build.gradle
+│
+├── gradle/
+├── build.gradle
+├── settings.gradle
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+└── README.md
