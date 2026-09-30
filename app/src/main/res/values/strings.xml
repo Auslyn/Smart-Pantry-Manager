@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Smart Pantry Manager</string>
+    <string name="tagline">Cook with what you already have</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_pantry">Pantry</string>
+    <string name="nav_recipes">Recipes</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home -->
+    <string name="stat_in_pantry">In pantry</string>
+    <string name="stat_expiring">Expiring</string>
+    <string name="stat_can_cook">Can cook</string>
+    <string name="home_pantry_title">My pantry</string>
+    <string name="home_pantry_sub">See and manage what you have</string>
+    <string name="home_cook_title">What can I cook?</string>
+    <string name="home_cook_sub">Recipes you can make right now</string>
+    <string name="home_add_title">Add an ingredient</string>
+    <string name="home_add_sub">Restock your shelves</string>
+    <plurals name="expiring_banner">
+        <item quantity="one">%d item is expiring soon. Use it up!</item>
+        <item quantity="other">%d items are expiring soon. Use them up!</item>
+    </plurals>
+
+    <!-- Pantry -->
+    <string name="my_pantry">My Pantry</string>
+    <string name="search_hint">Search ingredients</string>
+    <string name="empty_pantry_title">Nothing here yet</string>
+    <string name="empty_pantry_text">Tap + to add your first ingredient.</string>
+    <string name="add_item">Add ingredient</string>
+    <string name="edit_item">Edit ingredient</string>
+    <string name="save">Save ingredient</string>
+    <string name="save_changes">Save changes</string>
+    <string name="item_added">Ingredient added</string>
+    <string name="item_updated">Ingredient updated</string>
+    <string name="item_deleted">Ingredient deleted</string>
+    <string name="undo">Undo</string>
+    <string name="uncategorised">Uncategorised</string>
+    <string name="no_expiry">No expiry date</string>
+    <string name="expired">Expired</string>
+    <string name="expires_today">Expires today</string>
+    <string name="expires_on">Expires %s</string>
+    <plurals name="expires_in_days">
+        <item quantity="one">Expires in %d day</item>
+        <item quantity="other">Expires in %d days</item>
+    </plurals>
+    <plurals name="item_count">
+        <item quantity="one">%d ingredient</item>
+        <item quantity="other">%d ingredients</item>
+    </plurals>
+
+    <!-- Form -->
+    <string name="hint_name">Ingredient name</string>
+    <string name="hint_quantity">Quantity</string>
+    <string name="hint_unit">Unit</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_expiry">Expiry date (optional)</string>
+    <string name="error_name_required">Please enter a name</string>
+    <string name="error_name_letters">Name must contain letters</string>
+    <string name="error_quantity_required">Please enter a quantity</string>
+    <string name="error_quantity_positive">Quantity must be more than 0</string>
+    <string name="error_quantity_number">Enter a valid number</string>
+    <string name="error_unit">Choose a unit from the list</string>
+    <string name="error_date">Use the date picker to choose a valid date</string>
+
+    <!-- Recipes -->
+    <string name="suggested_recipes">Suggested Recipes</string>
+    <string name="tab_ready">Ready to cook</string>
+    <string name="tab_almost">Almost there</string>
+    <string name="ready_to_cook">Ready to cook</string>
+    <string name="missing_one">Missing: %s</string>
+    <string name="no_match_title">No recipes match your pantry yet</string>
+    <string name="no_match_text">Add more ingredients and check back.</string>
+    <string name="no_almost_title">Nothing is one step away</string>
+    <string name="no_almost_text">No recipe is missing just a single ingredient right now.</string>
+    <plurals name="ready_count">
+        <item quantity="one">%d recipe you can make now</item>
+        <item quantity="other">%d recipes you can make now</item>
+    </plurals>
+    <plurals name="almost_count">
+        <item quantity="one">%d recipe missing one ingredient</item>
+        <item quantity="other">%d recipes missing one ingredient</item>
+    </plurals>
+    <plurals name="ingredient_count">
+        <item quantity="one">%d ingredient</item>
+        <item quantity="other">%d ingredients</item>
+    </plurals>
+
+    <!-- Recipe detail -->
+    <string name="ingredients">Ingredients</string>
+    <string name="method">Method</string>
+    <string name="watch_video">Watch video tutorial</string>
+    <string name="status_ready">You have everything</string>
+    <plurals name="status_missing">
+        <item quantity="one">%d ingredient missing</item>
+        <item quantity="other">%d ingredients missing</item>
+    </plurals>
+    <string name="recipe_not_found">Recipe not found</string>
+    <string name="no_video">No video available for this recipe</string>
+    <string name="video_error">Unable to open the video</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="dark_mode_sub">Easier on the eyes at night</string>
+    <string name="alerts">Notifications</string>
+    <string name="expiry_alerts">Expiring-soon alerts</string>
+    <string name="expiry_alerts_sub">Show a reminder on the home screen</string>
+    <string name="data">Your data</string>
+    <string name="clear_pantry">Clear all pantry items</string>
+    <string name="reset_sample">Restore sample pantry</string>
+    <string name="clear_title">Clear pantry?</string>
+    <string name="clear_message">This deletes every ingredient in your pantry and cannot be undone.</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="pantry_cleared">Pantry cleared</string>
+    <string name="sample_restored">Sample pantry restored</string>
+    <string name="about">About</string>
+    <string name="about_text">Smart Pantry Manager v1.0\nSuggests recipes using only what is already in your pantry, to cut down on food waste.</string>
+</resources>

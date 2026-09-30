@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Brand -->
+    <color name="brand_green">#2F7D5B</color>
+    <color name="brand_green_dark">#1F5A41</color>
+    <color name="brand_green_light">#DDF1E6</color>
+    <color name="brand_tomato">#E8563A</color>
+    <color name="brand_tomato_light">#FFE6DF</color>
+
+    <!-- Surfaces and text (overridden in values-night) -->
+    <color name="background">#FBF7F0</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1EBDF</color>
+    <color name="text_primary">#1F2A24</color>
+    <color name="text_secondary">#6B766F</color>
+    <color name="outline">#E4DDCF</color>
+
+    <!-- Status colours -->
+    <color name="success">#1E7B4F</color>
+    <color name="success_bg">#DDF1E6</color>
+    <color name="warning">#B86A00</color>
+    <color name="warning_bg">#FFF0D6</color>
+    <color name="danger">#C7371F</color>
+</resources>

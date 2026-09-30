@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_green">#5FC896</color>
+    <color name="brand_green_dark">#12241B</color>
+    <color name="brand_green_light">#22362C</color>
+    <color name="brand_tomato">#FF8368</color>
+    <color name="brand_tomato_light">#3A2520</color>
+
+    <color name="background">#0F1613</color>
+    <color name="surface">#18211C</color>
+    <color name="surface_variant">#202B25</color>
+    <color name="text_primary">#EAF1EC</color>
+    <color name="text_secondary">#9DAAA2</color>
+    <color name="outline">#2C3A32</color>
+
+    <color name="success">#6FD9A2</color>
+    <color name="success_bg">#1E3A2C</color>
+    <color name="warning">#FFC15A</color>
+    <color name="warning_bg">#3D2F14</color>
+    <color name="danger">#FF8A73</color>
+</resources>
